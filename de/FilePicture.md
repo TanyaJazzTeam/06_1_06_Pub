@@ -19,19 +19,19 @@ Zebrastreifen | sind ordentlich | ~~$1~~
 Dillinger ist ein cloudfähiger, für Mobilgeräte geeigneter Offline-Speicher- und AngularJS-basierter HTML5-Markdown-Editor.
 
 - Geben Sie links etwas Markdown ein
-- See HTML in the right re
+- See HTML in the right re ew
 - Magic
 
 # WAHR
 
 - Importieren Sie eine HTML-Datei und beobachten Sie, wie sie auf magische Weise in Markdown konvertiert wird
-- jhkjh
+- jhkjh w
 - Bilder per Drag-and-Drop verschieben (erfordert die Verknüpfung Ihres Dropbox-Kontos)
 
 Du kannst auch:
 
 - Importieren und speichern Sie Dateien von GitHub, Dropbox, Google Drive und One Drive
-- Drag and drop markdown and HTML files into Dillinger Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
+- Drag and drop markdown and HTML files into Dillinger Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]ewe
 
 > Das übergeordnete Designziel für die Formatierungssyntax von Markdown besteht darin, sie so lesbar wie möglich zu machen. Die Idee dahinter ist, dass ein Markdown-formatiertes Dokument so wie es ist, als reiner Text, veröffentlicht werden kann, ohne dass es aussieht, als wäre es mit Tags oder Formatierungsanweisungen versehen worden.
 
